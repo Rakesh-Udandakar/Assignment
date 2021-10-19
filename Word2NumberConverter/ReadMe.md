@@ -29,6 +29,7 @@ Currently the Word2NumberConverter allows shortscale conversions of words.Applic
 
 		number >= 1000
 	    Add to subTotal = subTotal + (partialSum * number)
+	    Reset partialSum = 0
 
 6) Calculate Final Number = sign (1 or -1) * (subTotal + partialSum)
 
