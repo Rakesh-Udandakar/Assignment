@@ -14,10 +14,12 @@ Currently the Word2NumberConverter allows shortscale conversions of words.Applic
 
 5) Calculate final number using each word as below:
 	 
-     number = Convert word in string format to BigInteger 
-	 (BigInteger doesnt have higher limit and hence we will not run into overflow issues.) 
-
-     We will use partialSum=0 and subTotal=0 for calculation.
+	We will use partialSum=0 and subTotal=0 for calculation.
+       
+	   For each word in Input perform below steps
+        
+     	number = Convert word in string format to BigInteger 
+	 	(BigInteger doesnt have higher limit and hence we will not run into overflow issues.) 
 
 		number less than < 100
 		Add to partialSum
