@@ -8,13 +8,15 @@ Currently the Word2NumberConverter allows shortscale conversions of words.Applic
 
 2) Validate input for supported words for translation.
 
-3) Throw exception any of the above validation fails.
+3) Throw exception, if any of the above validation fails.
 
 4) Split input into words (like thousand,hundred) and get corresponding number ("1000" , "100") for each word.
 
 5) Calculate final number using each word as below:
 	 
-     number = Convert word in string format to BigInteger (BigInteger doesnt have higher limit and hence we will run into overflow issues.)   
+     number = Convert word in string format to BigInteger 
+	 (BigInteger doesnt have higher limit and hence we will not run into overflow issues.) 
+
      We will use partialSum=0 and subTotal=0 for calculation.
 
 		number less than < 100
