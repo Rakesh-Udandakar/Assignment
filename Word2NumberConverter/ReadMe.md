@@ -75,8 +75,9 @@ List of technologies used for developing the solution
 3. Press the Run button to build the solution.
 
 ### Build and run service from the command line
-cd ./Word2NumberConverter
-dotnet run
+1. cd ./Word2NumberConverter
+
+2. dotnet run
 
 ### Test in Visual Studio
 
