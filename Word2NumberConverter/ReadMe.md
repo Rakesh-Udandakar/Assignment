@@ -1,6 +1,6 @@
 ﻿# Word2NumberConverter console application
 Word2NumberConverter provides the capability to convert words into number.
-Currently the Word2NumberConverter allows shortscale conversions of words and application can be extended to include words to other numbering systems.
+Currently the Word2NumberConverter allows shortscale conversions of words.Application can also be extended to include other numeric scale systems.
 
 ## Algorithm Used:
 
