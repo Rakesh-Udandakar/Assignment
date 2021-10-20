@@ -92,25 +92,25 @@ namespace Word2NumberConverterTests
             {
                 //Input in the below format (Words to be converted, expectedNumber,testDescription)
 
-                //yield return new object[] { "twenty", new BigInteger(20) };
+                yield return new object[] { "twenty", new BigInteger(20) };
 
-                //yield return new object[] { "one hundred", new BigInteger(100) };
+                yield return new object[] { "one hundred", new BigInteger(100) };
 
                 yield return new object[] { "minus one hundred", new BigInteger(-100) };
 
-                //yield return new object[] { "One thousand two hundred", new BigInteger(1200)};
+                yield return new object[] { "One thousand two hundred", new BigInteger(1200) };
 
-                //yield return new object[] { "One million fifty five hundred", new BigInteger(1005500)};
+                yield return new object[] { "One million fifty five hundred", new BigInteger(1005500) };
 
-                //yield return new object[] { "One Billion twenty five million fifty five thousand twenty two", new BigInteger(1025055022)};
+                yield return new object[] { "One Billion twenty five million fifty five thousand twenty two", new BigInteger(1025055022) };
 
-                //yield return new object[] { "one hundred trillion two hundred fifty", new BigInteger(100000000000250)};
+                yield return new object[] { "one hundred trillion two hundred fifty", new BigInteger(100000000000250) };
 
-                //yield return new object[] { "ten septillion twenty five trillion", BigInteger.Parse("10000000000025000000000000")};
+                yield return new object[] { "ten septillion twenty five trillion", BigInteger.Parse("10000000000025000000000000") };
 
-                //yield return new object[] { "one duodecillion two octillion five hundred septillion", BigInteger.Parse("1000000000002500000000000000000000000000")};
+                yield return new object[] { "one duodecillion two octillion five hundred septillion", BigInteger.Parse("1000000000002500000000000000000000000000") };
 
-                //yield return new object[] { "ten sexvigintillion five quattuorvigintillion three hundred forty two trevigintillion two unvigintillion five hundred vigintillion", BigInteger.Parse("10000005342000002500000000000000000000000000000000000000000000000000000000000000000"),};
+                yield return new object[] { "ten sexvigintillion five quattuorvigintillion three hundred forty two trevigintillion two unvigintillion five hundred vigintillion", BigInteger.Parse("10000005342000002500000000000000000000000000000000000000000000000000000000000000000"), };
 
                 //Max Value supported is centillion
                 yield return new object[] { "one centillion twenty five", BigInteger.Parse("1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000025")}; ;
