@@ -12,7 +12,7 @@ namespace Word2NumberConverter
     /// <summary>
     /// Class to convert words to number.
     /// </summary>
-    public class ShortScaleWord2NumberConverter : IWord2NumberConverter
+    public sealed class ShortScaleWord2NumberConverter : IWord2NumberConverter
     {
 
         /// <summary>

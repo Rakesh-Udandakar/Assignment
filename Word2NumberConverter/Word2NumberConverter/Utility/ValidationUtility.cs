@@ -9,7 +9,7 @@ namespace Word2NumberConverter.Utility
     /// <summary>
     /// Utility class used for validating input string.
     /// </summary>
-    public class ValidationUtility
+    public sealed class ValidationUtility
     {
         /// <summary>
         /// Utility function to get invalid characters in the input string. 
