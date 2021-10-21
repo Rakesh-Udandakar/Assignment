@@ -1,0 +1,13 @@
+C:\Users\v-rudandakar\source\repos\TrappedRainWaterCalculator\TrappedRainWaterCalculator\bin\Debug\netcoreapp3.1\TrappedRainWaterCalculator.deps.json
+C:\Users\v-rudandakar\source\repos\TrappedRainWaterCalculator\TrappedRainWaterCalculator\bin\Debug\netcoreapp3.1\TrappedRainWaterCalculator.dll
+C:\Users\v-rudandakar\source\repos\TrappedRainWaterCalculator\TrappedRainWaterCalculator\bin\Debug\netcoreapp3.1\TrappedRainWaterCalculator.pdb
+C:\Users\v-rudandakar\source\repos\TrappedRainWaterCalculator\TrappedRainWaterCalculator\obj\Debug\netcoreapp3.1\TrappedRainWaterCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-rudandakar\source\repos\TrappedRainWaterCalculator\TrappedRainWaterCalculator\obj\Debug\netcoreapp3.1\TrappedRainWaterCalculator.AssemblyInfoInputs.cache
+C:\Users\v-rudandakar\source\repos\TrappedRainWaterCalculator\TrappedRainWaterCalculator\obj\Debug\netcoreapp3.1\TrappedRainWaterCalculator.AssemblyInfo.cs
+C:\Users\v-rudandakar\source\repos\TrappedRainWaterCalculator\TrappedRainWaterCalculator\obj\Debug\netcoreapp3.1\TrappedRainWaterCalculator.csproj.CoreCompileInputs.cache
+C:\Users\v-rudandakar\source\repos\TrappedRainWaterCalculator\TrappedRainWaterCalculator\obj\Debug\netcoreapp3.1\TrappedRainWaterCalculator.dll
+C:\Users\v-rudandakar\source\repos\TrappedRainWaterCalculator\TrappedRainWaterCalculator\obj\Debug\netcoreapp3.1\TrappedRainWaterCalculator.pdb
+C:\Users\v-rudandakar\source\repos\TrappedRainWaterCalculator\TrappedRainWaterCalculator\bin\Debug\netcoreapp3.1\TrappedRainWaterCalculator.exe
+C:\Users\v-rudandakar\source\repos\TrappedRainWaterCalculator\TrappedRainWaterCalculator\bin\Debug\netcoreapp3.1\TrappedRainWaterCalculator.runtimeconfig.json
+C:\Users\v-rudandakar\source\repos\TrappedRainWaterCalculator\TrappedRainWaterCalculator\bin\Debug\netcoreapp3.1\TrappedRainWaterCalculator.runtimeconfig.dev.json
+C:\Users\v-rudandakar\source\repos\TrappedRainWaterCalculator\TrappedRainWaterCalculator\obj\Debug\netcoreapp3.1\TrappedRainWaterCalculator.genruntimeconfig.cache
